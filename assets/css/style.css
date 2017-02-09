@@ -1,0 +1,170 @@
+.container {
+	background-color: gainsboro;
+	padding: 0px;
+	margin: 0px auto;
+	margin-left: 50px auto;
+	min-width: 100%;
+}
+
+.container-fluid {
+	border-bottom-style: solid;
+	border-color: silver;
+	border-bottom-width: 2px;
+}
+
+.nav {
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 18px;
+	width: 100%;
+	height: 80px;
+}
+
+/*.navbar-brand {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
+	font-size: 26px;
+	color: white !important;
+	background-color: red;
+	margin-left: -45px !important auto;
+	width: 233px;
+	text-align: center;
+	top: 10px;
+	height: 80px;
+}*/
+
+.navbar-header {
+	margin-left: 27%;
+	height: 80px;
+	background-color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
+	font-size: 26px;
+	text-align: center;
+	width: 250px;
+}
+
+.headername {
+	margin-top: 25px;
+	color: white;
+}
+
+
+/*.row {
+	height: 440px;
+}
+*/
+
+.portfolio-border {
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+	margin-top: 40px;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-width: 2px;
+	border-color: lightgray;
+}
+
+a {
+	margin: 25px 5px 25px 5px;
+}
+
+.h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
+	font-size: 26px;
+	color: #4aaaa5;
+	padding-bottom: 15px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	margin-bottom: 20px;
+}
+
+.col-md-6 {
+	margin-left: 7%;
+}
+
+/*.portoverflow {
+	overflow: auto;
+}*/
+
+.headshot {
+	float: left;
+	padding-right:15px;
+}
+
+#pabout {
+	font-size: 18px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 25px;
+}
+
+.pheader {
+	color: white;
+	font-size: 18px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background-color: cadetblue;
+	padding: 20px 95px 20px 96px;
+	position: relative;
+	top: -50px;
+}
+
+.rpgfix {
+	padding-left: 88px;
+	padding-right: 88px;
+}
+
+.triviafix {
+	padding-left: 86px;
+	padding-right: 86px;
+}
+
+.widgetfix {
+	padding-left: 54px;
+	padding-right: 54px;
+}
+
+.col-md-3 {
+	height: 100%;
+}
+
+.backwhite {
+	background-color: white;
+}
+
+.imgwidth {
+	width: 64px;
+	height: 64px;
+	margin: 0px auto;	
+}
+
+.imgwidthstack {
+	width: 60px;
+	height: 60px;
+	margin: 0px auto;
+}
+
+.imgscale {
+	width: 270px;
+	height: 200px	;
+}
+
+.marginbody {
+	margin-left: 100px auto;
+	margin-right: 100px auto;
+}
+
+footer {
+	clear: both;
+	background-color: dimgray;
+	border-top-style: solid;
+	border-top-width: 8px;
+	border-color: cadetblue;
+	width: 100%;
+	height: 90px;
+	position: static;
+	bottom: 0px;
+	text-align: center;
+	font-size: 14px;
+	color: lightgray;
+	line-height: 600%;
+}
